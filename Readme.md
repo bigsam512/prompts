@@ -1,6 +1,8 @@
 
 https://github.com/NeoVertex1/SuperPrompt
 
+https://github.com/Vipuser2023/chatgpt-prompts-chinese
+
 中学生写作文的chatgpt prompt
 
 https://zhuanlan.zhihu.com/p/648486459
